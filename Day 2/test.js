@@ -75,7 +75,7 @@ function activity5(){
     let s1 = "Positive"
     let s2 = "Negative"
     let res = (num>0) ? s1 : s2
-    console.log(res);
+    console.log(res);//Task 14
 }
 activity1()
 activity2()
